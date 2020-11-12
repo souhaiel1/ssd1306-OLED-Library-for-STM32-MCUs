@@ -4,7 +4,7 @@ Make sure you include the appropriate .h file for your MCU (example: "stm32f4xx_
 
 
 ![](im1.jpg) 
-![]im2.jpg) 
+![](im2.jpg) 
 ![](bitmap1.jpg)
 
 
